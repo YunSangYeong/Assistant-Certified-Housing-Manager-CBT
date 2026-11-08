@@ -1,0 +1,27 @@
+{
+  "name": "주택관리사보",
+  "stage": "1차 통합 학습용",
+  "bankId": "housing-main",
+  "subjects": [
+    "회계원리",
+    "공동주택시설개론",
+    "민법"
+  ],
+  "questionsPerSubject": 40,
+  "questionCount": 120,
+  "durationMinutes": 150,
+  "choiceCount": 5,
+  "passScore": 60,
+  "subjectCutoff": 40,
+  "rulesVerificationStatus": "pending-official-access",
+  "officialSources": [
+    "https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=9650",
+    "https://www.law.go.kr/법령/공동주택관리법시행령"
+  ],
+  "limitations": [
+    "공식 원문 접근 CONNECT 403. 최신 공식 규칙 대조 미완료.",
+    "1차의 1교시 100분(회계원리·시설개론), 2교시 50분(민법)을 통합 150분으로 연습. 교시별 답안 잠금·휴식은 재현하지 않음.",
+    "2차 주택관리관계법규·공동주택관리실무의 주관식과 선발예정인원에 따른 합격자 결정은 구현하지 않음.",
+    "시험 규칙 수치는 학습용 잠정 설정이며 공식 검증 완료를 뜻하지 않음."
+  ]
+}
