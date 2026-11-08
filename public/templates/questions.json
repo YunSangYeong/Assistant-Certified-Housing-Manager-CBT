@@ -1,0 +1,36 @@
+[
+  {
+    "id": "LOCAL-SAMPLE",
+    "subject": "회계원리",
+    "topic": "회계등식",
+    "question": "[직접 수정할 문항] 자산이 120만원, 부채가 22만원이다. 회계등식에 따른 자본은?",
+    "choices": [
+      "98 만원",
+      "107.8 만원",
+      "117.6 만원",
+      "127.4 만원",
+      "137.2 만원"
+    ],
+    "answer": 1,
+    "explanation": "자산=부채+자본이므로 자본=120-22=98만원이다.",
+    "difficulty": "하",
+    "year": null,
+    "session": null,
+    "type": "original",
+    "sourceUrl": "https://github.com/YunSangYeong/Assistant-Certified-Housing-Manager-CBT",
+    "verificationStatus": "pending",
+    "reviewNote": "출처·이용 조건·정답 검수 후 로컬 승인 필요",
+    "version": "housing-main",
+    "rights": "이 저장소에서 자체 작성한 학습 문항, CC BY 4.0. 저장소 URL은 작성 위치이며 외부 정답 증빙이 아님.",
+    "family": "HM-A-1",
+    "calculation": {
+      "kind": "회계등식",
+      "values": [
+        120,
+        22
+      ],
+      "result": 98,
+      "unit": "만원"
+    }
+  }
+]
